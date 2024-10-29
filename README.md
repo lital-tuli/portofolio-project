@@ -27,7 +27,7 @@ Discover the World: An immersive website that takes users on a virtual journey.
 Go Forward: A motivating website that inspires action and progress.
 
 To view the live project:
-
+https://github.com/lital-tuli/portofolio-project/tree/268dbdbf004313c872876e703ab9e2ea63169d8f/lital%20gehman%20project/index.html
 Feel free to reach out and explore further!
 
 Lital Gehman 
